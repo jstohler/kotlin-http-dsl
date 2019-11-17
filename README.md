@@ -13,7 +13,7 @@ for older JVM versions (using http-client packages, such as [khttp](https://gith
 
 ### Is this maintained?
 Yes, while this project will be built out some more, this is an early version of the design. Nothing is set in stone, 
-and updates may drastically change the structure of the project, as this is **Version: 0.0.1**. 
+and updates may drastically change the structure of the project, as this is **Version: 0.0.2**. 
 
 If this is something that is useful to you, I will be more than happy to take PRs and care for backwards-compatibility,
 once the project is at a stable state!
