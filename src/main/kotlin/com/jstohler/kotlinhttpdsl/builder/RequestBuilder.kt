@@ -23,4 +23,6 @@ interface RequestBuilder {
 
     // Connect currently isn't supported with HttpRequest
     // fun connect(address: String, payload: (() -> Any)? = null)
+
+    fun multipart(payload: (() -> Any)? = null)
 }
